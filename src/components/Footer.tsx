@@ -114,11 +114,11 @@ export default function Footer() {
             <ul className="space-y-4">
               <li>
                 <a
-                  href="tel:+12345678900"
+                  href="tel:+59131234567"
                   className="flex items-start space-x-3 text-gray-300 hover:text-sky-400 transition-colors group"
                 >
                   <Phone size={20} className="flex-shrink-0 mt-1 group-hover:scale-110 transition-transform" />
-                  <span>+1 (234) 567-8900</span>
+                  <span>+591 3 123-4567</span>
                 </a>
               </li>
               <li>
@@ -133,7 +133,7 @@ export default function Footer() {
               <li>
                 <div className="flex items-start space-x-3 text-gray-300">
                   <MapPin size={20} className="flex-shrink-0 mt-1" />
-                  <span>Ciudad, País</span>
+                  <span>Santa Cruz de la Sierra, Bolivia</span>
                 </div>
               </li>
             </ul>

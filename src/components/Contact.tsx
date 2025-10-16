@@ -46,8 +46,8 @@ export default function Contact() {
     {
       icon: Phone,
       title: 'Teléfono',
-      content: '+1 (234) 567-8900',
-      link: 'tel:+12345678900'
+      content: '+591 3 123-4567',
+      link: 'tel:+59131234567'
     },
     {
       icon: Mail,
@@ -58,7 +58,7 @@ export default function Contact() {
     {
       icon: MapPin,
       title: 'Ubicación',
-      content: 'Ciudad, País',
+      content: 'Santa Cruz de la Sierra, Bolivia',
       link: '#'
     }
   ];

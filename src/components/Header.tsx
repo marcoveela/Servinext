@@ -101,9 +101,9 @@ export default function Header() {
               Contacto
             </button>
             <div className="pt-4 border-t border-gray-200 space-y-3">
-              <a href="tel:+1234567890" className="flex items-center space-x-2 text-gray-600 hover:text-sky-500">
+              <a href="tel:+59131234567" className="flex items-center space-x-2 text-gray-600 hover:text-sky-500">
                 <Phone size={18} />
-                <span>(123) 456-7890</span>
+                <span>+591 3 123-4567</span>
               </a>
               <a href="mailto:info@servinext.com" className="flex items-center space-x-2 text-gray-600 hover:text-sky-500">
                 <Mail size={18} />
